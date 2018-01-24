@@ -1,0 +1,25 @@
+
+#show-image:hover img{
+    opacity:0.5;
+}
+#show-image:hover button{
+     visibility:visible;
+
+}
+#show-image button {
+    visibility:hidden;
+}
+button{
+    display: block;
+    margin-top: 5px;
+    width: 167px;
+    /* color: red; */
+    background: red;
+    color: white;
+    border: black;
+    height: 25px;
+    font-weight: bold;
+}
+/*img, button{
+    display:inline-block;
+}*/
